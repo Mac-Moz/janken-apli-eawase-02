@@ -47,7 +47,7 @@ $('.btn-janken').click(function () {
         slotReelStartHeight = 0,
         atariHantei = null,
         atariGazo = null,
-        atariGazo_img = ["img/yunicorn-atari.jpg", "img/cat-atari.jpg", "img/rion-atari.jpg", "img/zou-atari.jpg", "img/mukudori-atari.jpg", "img/dragon-atari.png", "img/hakucho-atari.jpg"];
+        atariGazo_img = ["img/yunicorn-atari.jpg", "img/cat-atari.jpg", "img/rion-atari.jpg", "img/zou-atari.jpg", "img/mukudori-atari.jpg", "img/dragon-atari.jpg", "img/hakucho-atari.jpg"];
 
     var slot_Atari = [[[0, 6], [1, 1], [2, 2]], [[0, 5], [1, 3], [2, 4]], [[0, 4], [1, 5], [2, 6]], [[0, 3], [1, 2], [2, 0]], [[0, 2], [1, 6], [2, 3]], [[0, 1], [1, 0], [2, 1]], [[0, 0], [1, 4], [2, 5]]]
     // ユニコーン、猫、ライオン、象、ムクドリ、ドラゴン、白鳥
